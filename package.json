@@ -13,7 +13,7 @@
     "libsodium-wrappers": "^0.7.10"
   },
   "engines": {
-    "node": "18.x"
+    "node": "24.x"
   },
   "author": "Hiếu Dz",
   "license": "MIT"
